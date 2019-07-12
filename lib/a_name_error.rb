@@ -1,3 +1,3 @@
 greet = "hello world"
 
-name = hello_world
+name = "hello_world"
